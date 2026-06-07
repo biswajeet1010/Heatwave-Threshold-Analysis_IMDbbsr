@@ -20,7 +20,7 @@ The analysis uses:
 
 * Daily maximum temperature (Tmax) data.
 * Historical temperature records from recent years.
-* IMD gridded datasets and station observations (where available).
+* IMD gridded datasets and station observations.
 
 Note: Raw datasets are not included in this repository due to data-sharing restrictions.
 
